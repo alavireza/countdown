@@ -6,14 +6,14 @@
 .App {
   text-align: center;
   font-size: 35px;
-	width: 750px;
-	height: 170px;
-	overflow: hidden;
-	margin-top: -85px;
+  width: 750px;
+  height: 170px;
+  overflow: hidden;
+  margin-top: -85px;
   margin-left: -375px;
-	position: absolute;
-	top: 50%;
-	left: 50%;
+  position: absolute;	
+  top: 50%;
+  left: 50%;
   font-family: "font", serif;
   color: #ffe465
 }
