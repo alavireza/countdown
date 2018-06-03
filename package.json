@@ -4,12 +4,12 @@
   "private": true,
   "author": {
     "name": "Ali Piry",
-    "email": "ali@piry.site",
-    "url": "https://github.com/alipiry"
+    "email": "alipiry98@gmail.com",
+    "url": "https://github.com/yripila"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:alipiry/iocountdown.git"
+    "url": "git@github.com:yripila/iocountdown.git"
   },
   "dependencies": {
     "react": "^16.2.0",
