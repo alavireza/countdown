@@ -9,7 +9,7 @@ For development, you will only need Node.js installed on your environement.
 
 ## installation
 
-    $ git clone https://github.com/alipiry/iocountdown.git
+    $ git clone https://github.com/yripila/iocountdown.git
     $ cd iocountdown
     $ npm install
 
