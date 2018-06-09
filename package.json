@@ -1,5 +1,5 @@
 {
-  "name": "iocountdown",
+  "name": "countdown",
   "version": "0.1.0",
   "private": true,
   "author": {
@@ -9,18 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:yripila/iocountdown.git"
+    "url": "git@github.com:yripila/countdown.git"
   },
+  "homepage": "https://yripila.github.io/countdown/",
   "dependencies": {
+    "gh-pages": "^1.2.0",
     "react": "^16.2.0",
     "react-bootstrap": "^0.31.2",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.0"
+    "react-scripts": "^1.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   }
 }

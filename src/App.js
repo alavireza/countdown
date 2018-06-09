@@ -6,14 +6,14 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      deadline: 'April 3, 2018',
+      deadline: 'April 3, 2020',
     };
   }
 
   render() {
     return (
       <div className="App">
-        <div className="App-title">Robocup Iran Open 2018</div>
+        <div className="App-title">Some Title</div>
         <div className="App-date">{this.state.deadline}</div>
         <Clock deadline={ this.state.deadline }/>
       </div>
