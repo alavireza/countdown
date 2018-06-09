@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,mDACA,4BACA,qBAAuB,CACxB","file":"static/css/main.c926451b.css","sourcesContent":["body {\n  background: url('./background.jpg') center center fixed;\n  background-repeat: no-repeat;\n  background-size: cover;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
